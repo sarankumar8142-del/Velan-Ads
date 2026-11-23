@@ -1,0 +1,8 @@
+{
+  "name": "Velan Ads Digital Printer",
+  "description": "Digital printing and advertising services in Medavakkam, Chennai — flex banners, vinyl printing, signage, brochures, business cards, posters, flyers, invitations, and stickers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
